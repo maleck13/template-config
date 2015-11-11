@@ -1,5 +1,8 @@
 # Changelog - template-config
 
+## 2.6.0 - David Martin
+* RHMAP-2768 - Regenerate cloud app templates to use version of fh-mbaas-api with JDG support
+
 ## 2.5.0 - Niall Donnelly, Daniel Passos
 * FH-1089 Increase Body Parser Limit For fh-mbaas-service
 * RHMAP-2698 - Include sync template in 3.5.4 release
